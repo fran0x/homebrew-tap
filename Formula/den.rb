@@ -6,23 +6,23 @@ class Den < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/fran0x/den/releases/download/v0.4.0/den-v0.4.0-aarch64-apple-darwin.tar.gz"
-      sha256 "702b7c2c884fdd0a15e6dadd8a10d3b41fc0dc3d2c54c5fc4a4da6da75df1e84"
+      url "https://github.com/fran0x/den/releases/download/v0.5.0/den-v0.5.0-aarch64-apple-darwin.tar.gz"
+      sha256 "9cf15c5047088eb1a00b579ba90e477c74b169503139ff74159df3a3f0af88eb"
     end
     on_intel do
-      url "https://github.com/fran0x/den/releases/download/v0.4.0/den-v0.4.0-x86_64-apple-darwin.tar.gz"
-      sha256 "c46028f8ce1f2b3076bade902398bd4dfa48bdeedb6be9c3f2d08c7dc5a0b823"
+      url "https://github.com/fran0x/den/releases/download/v0.5.0/den-v0.5.0-x86_64-apple-darwin.tar.gz"
+      sha256 "406731212bec4e946d80c291ee87b87e25c53aa894594ec4fc14e203f13b1a7e"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/fran0x/den/releases/download/v0.4.0/den-v0.4.0-aarch64-unknown-linux-gnu.tar.gz"
-      sha256 "28b9084ac7c498e93c0572c503384ec42eb5fa7cbf64858a07225c65f36e749e"
+      url "https://github.com/fran0x/den/releases/download/v0.5.0/den-v0.5.0-aarch64-unknown-linux-gnu.tar.gz"
+      sha256 "72f0ef3ef1dc35702b4d114a7090be62ca7046f5a193c684ba8563b7761ac093"
     end
     on_intel do
-      url "https://github.com/fran0x/den/releases/download/v0.4.0/den-v0.4.0-x86_64-unknown-linux-gnu.tar.gz"
-      sha256 "b91df90e09269a3430cd4068b28d02904381e5713d92c7fcc9cc268411f79cc5"
+      url "https://github.com/fran0x/den/releases/download/v0.5.0/den-v0.5.0-x86_64-unknown-linux-gnu.tar.gz"
+      sha256 "4a14a56909aaca9a697786d3aca60710ce0388786d95e4e3ca4b80d16e6d8e75"
     end
   end
 
